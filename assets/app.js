@@ -264,7 +264,7 @@ function renderHome(){
           return `<a class="cat-tile" href="collection.html?cat=${k}" style="background:linear-gradient(135deg,${a},${b})"><span>${c.name}</span></a>`}).join("")}
     </div></div></section>`;
 
-  const strip = `<div class="strip"><div class="track">${Array(3).fill(`<span>NEW ORIGINALS</span><span class="star">✦</span><span>${S.BRAND.tagline.toUpperCase()}</span><span class="star">✦</span>`).join("")}</div></div>`;
+  const strip = `<div class="strip"><div class="track">${Array(3).fill(`<span>${S.BRAND.name}</span><span class="star">✦</span><span>${S.BRAND.tagline.toUpperCase()}</span><span class="star">✦</span>`).join("")}</div></div>`;
 
   const perks = `<section class="section tight"><div class="wrap"><div class="perks">
     <div class="perk"><div class="ic">🚚</div><h5>Freeship 500K</h5><p>Toàn quốc cho đơn từ 500.000₫</p></div>

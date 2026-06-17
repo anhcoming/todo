@@ -4,10 +4,10 @@
    ========================================================= */
 
 const BRAND = {
-  name: "ORIGINALS",          // tên thương hiệu (đổi tại đây)
+  name: "VOISTUDIO",          // tên thương hiệu (đổi tại đây)
   tagline: "Be Bold · Be New · Be Original",
   hotline: "0900 000 000",
-  email: "hello@originals.demo",
+  email: "hello@voistudio.vn",
   hours: "Thứ 2 – Thứ 7 · 08:00 – 17:30",
 };
 
@@ -81,7 +81,7 @@ const PRODUCTS = [
   p("sweater","Teddy Land","Cozy Teddy","COZY", 329000,550000,[C.sand,C.pink],true),
 
   // JOGGER
-  p("jogger","Built Different","Daily Jogger","ORIGINALS", 289000,450000,[C.black,C.grey,C.olive],true),
+  p("jogger","Built Different","Daily Jogger","VOISTUDIO", 289000,450000,[C.black,C.grey,C.olive],true),
   p("jogger","Racer Core","Track Pants","TRACK", 289000,450000,[C.navy,C.black],false),
 
   // TÚI TOTE

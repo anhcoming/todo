@@ -8,11 +8,11 @@
    ========================================================= */
 window.CONFIG = {
   SUPABASE_URL: "https://kpwofxgnurgfjnigsdea.supabase.co",
-  SUPABASE_ANON_KEY: "",   // 👈 còn thiếu: dán "anon public key" vào đây
+  SUPABASE_ANON_KEY: "sb_publishable_qxPt87OkBlbKZppKFC4PgA_FX5GE2Vv",
 
   // Chỉ những email này mới vào được trang admin (đăng nhập Google)
   ADMIN_EMAILS: ["anhcoming@gmail.com"],
 
-  STORE_NAME: "ORIGINALS",
+  STORE_NAME: "VOISTUDIO",
   IMAGE_BUCKET: "product-images",
 };

@@ -1,4 +1,4 @@
-# ORIGINALS — Hướng dẫn cài đặt
+# VOISTUDIO — Hướng dẫn cài đặt
 
 Website gồm **2 phần dùng chung 1 dữ liệu**:
 
